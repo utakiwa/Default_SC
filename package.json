@@ -16,6 +16,6 @@
 ],
   "repository": {
     "type": "git",
-    "url": "git+"
+    "url": "git+https://github.com/utakiwa/Default_SC/tree/main"
   }
 }
