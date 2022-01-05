@@ -1,0 +1,7 @@
+@font-face{
+    font-family: 'Default_SC';
+    font-weight: 200;
+    font-style: normal;
+    font-stretch: normal;
+    src: url('./TTF/ja-jp.ttf') format('truetype');
+}
