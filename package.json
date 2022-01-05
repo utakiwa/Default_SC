@@ -1,0 +1,21 @@
+{
+  "name": "default_sc",
+  "version": "1.0",
+  "description": "Genshin Impact default font.",
+  "keywords": [
+    "font",
+    "ttf"
+  ],
+  "homepage": "https://github.com/utakiwa/Default_SC",
+  "bugs": {
+    "url": "https://github.com/utakiwa/Default_SC/issues"
+  },
+  "license": "",
+  "author": "Utakiwa",
+  "contributors": [
+],
+  "repository": {
+    "type": "git",
+    "url": "git+"
+  }
+}
